@@ -4,10 +4,10 @@ using static System.Console;
 {
     static void Main(string[] args)
     {
-      var a = "Oh, well imagine /\n" +
-                        "As I'm pacing the pews in a church corridor /\n" +
-                        "And I can't help but to hear /\n" +
-                        "No, I can't help but to hear an exchanging of words...";
+      var a = "Oh-oh-oh-oh-oh,\n" +
+                        "oh-oh-oh-oh,\n" +
+                        "oh-oh-oh /\n" +
+                        "Caught in a bad romance...";
 
         WriteLine(a);
 
